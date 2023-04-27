@@ -77,9 +77,9 @@ main--> is your branch name
 .env file has
 
 ```
-MONGO_DB_URL="mongodb://localhost:27017"
-AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
-AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
+MONGO_DB_URL=
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
 ```
 
 ```
