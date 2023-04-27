@@ -13,7 +13,7 @@ python main.py
 To download your dataset
 
 ```
-wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+wget https://github.com/Aanand-Patil/aps-fault-detection-main/blob/main/aps_failure_training_set1.csv
 ```
 
 This is changes made in neuro lab
